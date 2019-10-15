@@ -1,0 +1,4 @@
+{
+  "prettier.parser": "flow",
+  "prettier.requireConfig": true,
+}
