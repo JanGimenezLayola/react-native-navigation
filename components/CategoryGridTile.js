@@ -25,6 +25,8 @@ const styles = StyleSheet.create({
     margin: 10,
     flex: 1,
     height: 120,
+    borderRadius: 10,
+    overflow: 'hidden'
   },
   container: {
     flex: 1,
